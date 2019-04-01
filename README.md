@@ -13,6 +13,6 @@ A) SpringBoot Demo
 B) JDK 11 & JDK 12 Features Demo
 ---------------------------------
 6) Most these programs can be executed as standalone Java program.
-7) Micro Benchmarking feature of JDK 11 is a maven project. 
+7) Micro Benchmarking feature of JDK 12 is a maven project. 
 
 
